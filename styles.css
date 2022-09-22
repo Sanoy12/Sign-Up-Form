@@ -124,3 +124,7 @@ button {
 a {
   color: rgb(53, 206, 211);
 }
+label {
+  text-transform: uppercase;
+  font-size: 0.7em;
+}
